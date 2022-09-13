@@ -1,5 +1,5 @@
 {
-    "name": "Yodedex List",
+    "name": "cheeseswap",
     "timestamp": "2022-07-20T11:14:29.993Z",
     "version": {
         "major": 2,
@@ -7,9 +7,9 @@
         "patch": 0
     },
     "tags": {},
-    "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x6FC4563460d5f45932C473334d5c1C5B4aEA0E01/logo.png",
+    "logoURI": "https://raw.githubusercontent.com/alexswanFantom/dogeswap/main/logo.png",
     "keywords": [
-        "yodeswap",
+        "Bswap",
         "default"
     ],
     "tokens": [
@@ -22,10 +22,25 @@
             "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x95d5C32e16E19E0ba9b9A128f63a34a2796fb3df/logo.png"
         },
         {
+          "name": "Bswap Token",
+          "symbol": "BSWAP",
+          "address": "0xD21690CFbD4321c75B99d3c1ad7Fbcc1ECa162C2",
+          "chainId": 2000,
+          "decimals": 18
+        },
+        {
             "chainId": 2000,
             "address": "0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101",
             "symbol": "WWDOGE",
-            "name": "Wrapped Doge",
+            "name": "Wrapped WDOGE",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101/logo.png"
+        },
+        {
+            "chainId": 2000,
+            "address": "0xdD1D3B04939972A617E0bA7710591B03E825207c",
+            "symbol": "DMUSK",
+            "name": "Doge Musk Swap",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0xB7ddC6414bf4F5515b52D8BdD69973Ae205ff101/logo.png"
         },
